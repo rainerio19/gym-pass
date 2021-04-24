@@ -6,14 +6,14 @@
   <!-- <a href="https://projeto_academiamaster.netlify.app">Demo</a> -->
 <!-- </div> -->
 
-<h1 align="center">Projeto_Academia Master</h1>
+<h1 align="center">Projeto Gerenciar_Academia </h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/rainerio19/projeto_academia-master?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/rainerio19/gym-pass?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/rainerio19/projeto_academia-master?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/rainerio19/gym-pass?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/rainerio19/projeto_academia-master?color=56BEB8">
+  <!-- <img alt="Repository size" src="https://img.shields.io/github/repo-size/rainerio19/gym-pass?color=56BEB8"> -->
 
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/projeto_academia-master?color=56BEB8" /> -->
 
@@ -25,7 +25,7 @@
 <!-- Status -->
 
 <h4 align="center">
-🚧 Projeto_Academia Master 🚀 Fase de Testes Iniciada 🚧
+🚧 Projeto Gerenciar_Academia 🚀 Fase de Testes Iniciada 🚧
 
 </h4>
 
@@ -34,7 +34,7 @@
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0;
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
-  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
+  <a href="#white_check_mark">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="https://github.com/rainerio19" target="_blank">Author</a>
 </p>
@@ -96,7 +96,7 @@ RF012 - Listar Funcionários
 
 ```bash
 # Clone this project
-$ git clone https://github.com/rainerio19/projeto_academia-master
+$ git clone https://github.com/rainerio19/gym-pass
 
 # Access
 $ cd projeto_academia-master
